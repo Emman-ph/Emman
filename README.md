@@ -2,7 +2,7 @@
 <head>
 <h1>
 Hi, Welcome!! <img src ="https://media.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif"/ align ="right" height ="200" width ="180">
-<img src = "https://komarev.com/ghpvc/?username=reaper-bits&color=red&label=PROFILE+VIEWS&style=for-the-badge" align="right"/>
+<img src = "https://komarev.com/ghpvc/?username=Reaper-bits&color=red&label=PROFILE+VIEWS&style=for-the-badge" align="right"/>
 </h1>
 
 </head>

@@ -9,7 +9,7 @@ Hi, Welcome!! 👋 <img src ="https://media.tenor.com/NCRHhqkXrJYAAAAi/programme
 
 <body>
 • 🧑🏻‍💻 I'm currently learning Python and Data Science. <br>
-• 📧 You can reach me at <b><i>reaper_ds@proton.me</i><b> <br>
+• 📧 You can reach me at <b><i>reaper-bits@proton.me</i><b> <br>
 
 <br>
 <br>
